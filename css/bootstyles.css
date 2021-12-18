@@ -1,0 +1,27 @@
+body {
+    background-color: rgb(240, 240, 133);
+    font-family: Verdana Geneva;
+}
+.common{
+    background-color: 77777;
+    border: solid, 2px, white;
+    position: absolute; 
+}
+
+head {
+  top: 5px;
+  left: 5px;  
+  right: 5px;
+  height: 100px;
+}
+
+
+
+footer {
+bottom: 5px;
+height: 50;
+left:5px;
+right: 5px;
+text-align:center;
+position:fixed;
+}

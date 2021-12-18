@@ -1,0 +1,18 @@
+a:hover {
+    text-decoration: underline;
+}
+
+a:after {
+    color: purple
+
+}
+
+.normal7 {
+font-weight: normal
+
+}
+
+ol{
+    text-decoration:italic;
+    color: green
+}
